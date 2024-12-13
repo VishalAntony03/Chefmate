@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+streamlit-option-menu
+google-generativeai
+folium
+streamlit-folium
+boto3
+pymysql
+sqlalchemy 
+psycopg2
+scikit-learn
+seaborn
+matplotlib
